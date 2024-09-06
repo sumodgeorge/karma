@@ -392,7 +392,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "braces": "^3.0.2",
-    "chokidar": "^3.4.2",
+    "chokidar": "^3.5.2",
     "colors": "^1.4.0",
     "connect": "^3.7.0",
     "di": "^0.0.1",
@@ -408,11 +408,11 @@
     "qjobs": "^1.2.0",
     "range-parser": "^1.2.1",
     "rimraf": "^3.0.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^4.3.0",
     "source-map": "^0.7.3",
     "tmp": "0.2.1",
     "ua-parser-js": "0.7.21",
-    "yargs": "^15.3.1"
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.4",
