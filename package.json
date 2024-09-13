@@ -392,7 +392,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "braces": "^3.0.2",
-    "chokidar": "^3.4.2",
+    "chokidar": "^4.0.0",
     "colors": "^1.4.0",
     "connect": "^3.7.0",
     "di": "^0.0.1",
